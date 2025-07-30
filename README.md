@@ -6,8 +6,10 @@
 Обновила установочные дистрибутивы через терминал (sudo apt update), установила nginx (sudo apt install nginx) и добавила в список на автозагрузку (sudo systemctl enable nginx).
 Nginx работает:
 <img width="863" height="109" alt="image" src="https://github.com/user-attachments/assets/4d2a6989-f5f2-4dce-9d87-deac0129b3ea" />
+
 стандартная страница в браузере:
 <img width="871" height="342" alt="image" src="https://github.com/user-attachments/assets/67124027-ca17-465c-a02f-3bc3aa8cc6de" />
+
 в списке на автозагрузку:
 <img width="472" height="69" alt="image" src="https://github.com/user-attachments/assets/c40ac5cd-7a79-43d8-9d2c-8ced43a45d2a" />
 
